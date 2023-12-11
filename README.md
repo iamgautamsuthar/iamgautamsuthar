@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamgautamsuthar
-- 👀 I’m interested in C, Java Javascript.
-- 🌱 I’m currently learning C and Java.
+- 👀 I’m interested in C, Javascript.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Website Projects
 - 📫 How to reach me: I am everywhere @iamgautamsuthar
 
